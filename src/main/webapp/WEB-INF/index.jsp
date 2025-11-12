@@ -25,7 +25,7 @@
         border: none;
     }
     .btn-custom:hover {
-        background-color: #084298;
+        background-color: #1c5cbd;
     }
     .profile-section {
         text-align: center;
